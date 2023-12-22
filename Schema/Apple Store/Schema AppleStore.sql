@@ -1,0 +1,1 @@
+CREATE TABLE 'AppleStore' ('' INTEGER,'id' INTEGER,'track_name' TEXT,'size_bytes' INTEGER,'currency' TEXT,'price' REAL,'rating_count_tot' INTEGER,'rating_count_ver' INTEGER,'user_rating' REAL,'user_rating_ver' REAL,'ver' TEXT,'cont_rating' TEXT,'prime_genre' TEXT,'sup_devices_num' INTEGER,'ipadSc_urls_num' INTEGER,'lang_num' INTEGER,'vpp_lic' INTEGER)
