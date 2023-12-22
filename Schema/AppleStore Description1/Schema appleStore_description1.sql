@@ -1,0 +1,1 @@
+CREATE TABLE 'appleStore_description1' ('id' INTEGER,'track_name' TEXT,'size_bytes' INTEGER,'app_desc' TEXT)

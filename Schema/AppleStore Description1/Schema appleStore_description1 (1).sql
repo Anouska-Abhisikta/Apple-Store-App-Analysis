@@ -1,0 +1,1 @@
+SELECT * FROM appleStore_description1 
